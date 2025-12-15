@@ -4,7 +4,6 @@ node_modules
 .output
 .vercel
 .netlify
-.edgeone
 .wrangler
 /.svelte-kit
 /build
@@ -28,4 +27,3 @@ vite.config.ts.timestamp-*
 .edgeone/*
 !.edgeone/project.json
 .tef_dist/*
-  
