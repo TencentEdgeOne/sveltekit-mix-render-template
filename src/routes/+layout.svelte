@@ -1,3 +1,9 @@
+<svelte:head>
+  <title>EdgeOne Makers Template</title>
+  <meta name="description" content="Demo only · EdgeOne Makers" />
+  <meta name="keywords" content="EdgeOne Makers, Demo only" />
+</svelte:head>
+
 <script lang="ts">
 	import Header from './Header.svelte';
 	import '../app.css';
